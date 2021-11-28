@@ -8,7 +8,7 @@ Seth Pittsburg (sbp34@pitt.edu)
 
 ## Description and links of the datasets:
 * '311 Data' https://data.wprdc.org/dataset/311-data This dataset contains information regarding all of the 311 reports since 2017 that have been recorded in various neighborhoods in Pittsburgh. 311 is a non-emergency phone number that people can call to make complaints or report issues where they live.
-* rachel insert
+* 'Arrest Data'' https://data.wprdc.org/dataset/arrest-data This dataset details all arrest data from neighborhoods in Pittsburgh since 2016. It includes the date, incident neighborhood, and reason for the arrest, among other things.
 * seth insert
 
 ## Abstract
